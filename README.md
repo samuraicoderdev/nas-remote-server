@@ -1,18 +1,10 @@
-# Mounting a local server:
+# Your Personal Locally Cloud OS.
 
-A similar CasaOS Local NAS Server had been mounted.
+Community-based open source software focused on delivering simple personal cloud experience around Docker ecosystem.
 
-## Folder Tree:
 
-```
---/
-----/photos => only upload images, avatars, icons and other pictures types
-----/streaming => only uploading personal locally media or videos.
-----/movies => only uploading films, documentaries, or any type of movies.
-----/files => just uploading files like PDF, .hidden files, config files, etc
-----/series => just uploading any kind of tv shows and series (The Big Bang Theory, etc)
-```
 
-Create and make a remotely backup like a small NAS or Server hostaged in my house.
+
+
 
 
