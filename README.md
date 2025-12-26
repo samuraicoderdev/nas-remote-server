@@ -1,6 +1,8 @@
 # Your Personal Locally Cloud OS.
 
-### A similar CasaOS Local NAS Server had been mounted.
+Community-based open source software focused on delivering simple personal cloud experience around Docker ecosystem.
+
+
 
 
 
